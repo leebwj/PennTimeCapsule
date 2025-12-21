@@ -1,5 +1,4 @@
 # Capsule 
-**_Written By: Shaurya Sarma_**  
 
 ## Overview
 
