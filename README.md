@@ -1,5 +1,7 @@
 # Capsule 
 
+**_Written By: Shaurya Sarma_**  
+
 ## Overview
 
 Capsule is a collaborative web application where users can create and share **interactive 3D time capsules**. These capsules act as digital containers for memories—such as images, videos, and notes—and can be "unlocked" at specific dates, revealing an immersive 3D showcase of the content inside.
